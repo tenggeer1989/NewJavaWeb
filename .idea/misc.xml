@@ -6,7 +6,15 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-web-req-resp/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/../new_javaweb/springboot-mybatis-crud/springboot-mybatis-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web-management/springboot-web-management/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">

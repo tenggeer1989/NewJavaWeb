@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72296152-aac1-4ffc-ba76-6d15cd6e818f" name="Changes" comment="" />
+    <list default="true" id="72296152-aac1-4ffc-ba76-6d15cd6e818f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/controller/EmpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/mapper/DeptMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/mapper/EmpMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/mapper/LoginMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/pojo/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/pojo/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/pojo/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/pojo/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/EmpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/impl/EmpServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/java/com/tge/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/resources/com/tge/mapper/EmpMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-web-management/springboot-web-management/src/main/resources/static/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d91fbe30-dce2-4b69-aa58-4e6531055da3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d91fbe30-dce2-4b69-aa58-4e6531055da3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +46,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,46 +65,51 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="2VRBLftCN8fnR0PZIjJZlrOWVMD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "15",
-    "RequestMappingsPanelWidth1": "15",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/tengg/Desktop/user.sql",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "2a939af83a839a6308c7f66e5c66f69d",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/code/BE/java/new_javaweb/new-javaweb/springboot-web-management/springboot-web-management/src/main/resources/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d3b6b99a0cadeb0a213b528e1c05e489&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\BE\java\new_javaweb\new-javaweb\springboot-web-management\springboot-web-management\src\main\resources\static" />
       <recent name="E:\code\BE\java\new_javaweb\new-javaweb\springboot-web-req-resp\src\main\resources\static" />
       <recent name="E:\code\BE\java\new_javaweb\new-javaweb\springboot-web-req-resp\src\main\resources" />
       <recent name="E:\code\BE\java\new_javaweb\new-javaweb\springboot-web-req-resp\src\main\java\com\tge\pojo" />
       <recent name="E:\code\BE\java\new_javaweb\new-javaweb\springboot-web-req-resp\src\main\java\com\tge\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringbootMybatisQuickstartApplicationTests.testListUser">
-    <configuration name="SpringbootMybatisQuickstartApplicationTests.testListUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-mybatis-quickstart" />
+  <component name="RunManager" selected="Spring Boot.SpringbootWebManagementApplication">
+    <configuration name="SpringbootMybatisCrudApplicationTests.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tge.*" />
@@ -80,9 +117,80 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.tge" />
-      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootMybatisQuickstartApplicationTests" />
-      <option name="METHOD_NAME" value="testListUser" />
+      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteById" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tge" />
+      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testGetById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tge" />
+      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testUpdate2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tge" />
+      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebManagementApplicationTests.testUuid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tge" />
+      <option name="MAIN_CLASS_NAME" value="com.tge.SpringbootWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testUuid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tge.SpringbootMybatisCrudApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,6 +198,13 @@
     <configuration name="SpringbootMybatisQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot-mybatis-quickstart" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tge.SpringbootMybatisQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tge.SpringbootWebManagementApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,7 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testListUser" />
+        <item itemvalue="JUnit.SpringbootWebManagementApplicationTests.testUuid" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testList" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testDeleteById" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testUpdate2" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testGetById" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +238,15 @@
       <workItem from="1694869873310" duration="9305000" />
       <workItem from="1694955730251" duration="4360000" />
       <workItem from="1694960158426" duration="30000" />
+      <workItem from="1695035963086" duration="2247000" />
+      <workItem from="1695045982382" duration="5313000" />
+      <workItem from="1695128430908" duration="7889000" />
+      <workItem from="1695216446833" duration="8726000" />
+      <workItem from="1695302106757" duration="6922000" />
+      <workItem from="1695391368130" duration="4590000" />
+      <workItem from="1695483678094" duration="2145000" />
+      <workItem from="1695552855305" duration="5955000" />
+      <workItem from="1695629115458" duration="2198000" />
     </task>
     <servers />
   </component>
