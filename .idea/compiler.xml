@@ -8,12 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-crud" />
-        <module name="springboot-mybatis-quickstart" />
-        <module name="springboot-web-management" />
         <module name="springboot-web-req-resp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="springboot-mybatis-quickstart" target="11" />
+      <module name="springboot-web-management" target="11" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
